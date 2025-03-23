@@ -16,16 +16,18 @@ body_classes: page-home
   </div>
 </div>
 
-{% assign cards = site.projects | sort: 'date' | reverse %}
 {% assign limit = page.projects.limit | default: 3 %}
-{% assign sort_by = page.projects.sort | default: 'date' %}
-{% assign columns =  page.projects.columns | default: 3 %}
-{% capture columns %}col-lg-{{ 12 | divided_by:columns }}{% endcapture %}
-{% if sort_by == 'weight' %}
-  {% assign cards = cards | sort: 'weight' %}
-{% endif %}
+{% assign sort_by = page.projects.sort | default: 'weight' %}
+{% assign columns = page.projects.columns | default: 3 %}
+{% capture columns %}col-lg-{{ 12 | divided_by: columns }}{% endcapture %}
 
 {% assign cards = site.projects %}
+{% if sort_by == 'weight' %}
+  {% assign cards = cards | sort: 'weight' %}
+{% else %}
+  {% assign cards = cards | sort: 'date' | reverse %}
+{% endif %}
+
 {% if cards.size > 0 %}
 <div class="section pt-0">
   <div class="container">

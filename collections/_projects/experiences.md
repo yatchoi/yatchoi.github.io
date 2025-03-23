@@ -1,18 +1,19 @@
 ---
-layout: project-left
-title: "Cubist Urban Home"
-description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
-date: 2018-12-20
-weight: 2
-thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-3-1.webp"
-client: "Region of Valencia"
-categories: ["Development"]
-role: "Building Designer"
+layout: project-top
+title: "Experiences Launch"
+description: "An open source machine learning library written in Python"
+date: 2016-11-07
+weight: 3
+permalink: /projects/project-4
+thumbnail: "/assets/images/gen/projects/project-4-6-thumbnail.webp"
+image: "/assets/images/gen/projects/project-4-1.webp"
+client: "Airbnb"
+categories: ["Development", "Productionization", "Launch"]
+role: "Launch Engineer"
 gallery:
-  - image: "/assets/images/gen/projects/project-3-1.webp"
-  - image: "/assets/images/gen/projects/project-3-4.webp"
-  - image: "/assets/images/gen/projects/project-3-7.webp"
+  - image: "/assets/images/gen/projects/project-4-1.webp"
+  - image: "/assets/images/gen/projects/project-4-4.webp"
+  - image: "/assets/images/gen/projects/project-4-7.webp"
 ---
 
 Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
