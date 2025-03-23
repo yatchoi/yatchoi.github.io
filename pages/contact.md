@@ -6,4 +6,4 @@ permalink: "/contact/"
 
 ## Contact Info
 
-- **Email:** <a href="yatchoi1@gmail.com">yatchoi1@gmail.com</a>
+- **Email:** <a href="mailto:yatchoi1@gmail.com">yatchoi1@gmail.com</a>

@@ -19,7 +19,7 @@ projects:
 posts:
   heading: "Recent Posts"
   sub_heading: ""
-  limit: 3
+  limit: 0
   sort: date # date | weight
   view_more_button_text: ""
   view_more_button_link: "" # "/blog"
