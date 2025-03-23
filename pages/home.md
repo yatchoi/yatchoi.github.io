@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "I am a Technologist specializing in rapid prototyping"
-description: "I will help your business leverage emerging tech to validate ideas, prototype, build, and launch. 11+ years at Airbnb building core features and cutting edge R&D. Let's get your MVP built fast!"
+description: "I will help your business validate ideas, prototype, build, and launch - <strong>fast</strong>. With 11+ years at Airbnb, I've built core features and pushed cutting edge R&D in emerging tech. Let's bring your vision to life."
 meta_description: "Portfolio and website"
 meta_title: Yat Choi - Tech Consultant
 subscribe: false

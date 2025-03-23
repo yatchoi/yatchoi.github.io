@@ -15,4 +15,4 @@ gallery:
 
 During this phase of my tenure at Airbnb, I worked in a design + innovation studio led by co-founder Joe Gebbia.
 
-Not much can be shared publicly about my work during this time. However, my research and contributions involved the application of Augmented Reality, Computer Vision, and Machine Learning
+While much of my work remains confidential, my research and contributions involved the application of Augmented Reality, Computer Vision, and Machine Learning. I also helped facilitate user research sessions, gathering hands-on insights directly from potential users to shape innovative solutions.

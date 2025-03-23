@@ -16,10 +16,10 @@ gallery:
 gallery_limit: 3
 ---
 
-Airbnb integrates with a variety of smart locks for Hosts to be able to provide seamless and personalized check-in for their guests.
+Airbnb integrates with a variety of smart locks, enabling hosts to provide seamless, personalized check-ins for their guests.
 
-My involvement in this project started from the early R&D phases, rapidly building prototypes to demonstrate feasibility and garner organizational support. 
+This project emerged from our team’s research within Airbnb’s R&D innovation lab, where I rapidly built prototypes to prove feasibility and rally organizational support.
 
-As the venture matured, I led the development of the pin code management system which generates codes for guests, synchronizes them with lock hardware, and manages the lifecycle throughout the reservation. I heavily contributed to the research and partnership with smart lock vendors, helping to design a generic system that adapts to a multitude of vendors. Our team holds a patent for this work.
+As the initiative matured, I led the development of the pin code management system, which generates codes for guests, syncs them with lock hardware, and manages their lifecycle throughout each reservation. I played a key role in researching and partnering with lock vendors, shaping a flexible system that adapts to vendor-specific quirks — like inconsistent APIs or hardware glitches — while designing it to handle reservation changes and user errors effectively. Our robust, adaptable system is recognized with a team-held patent.
 
-Through public launch and beyond, I helped prepare the team for launch readiness, ensuring stability, and rapidly resolving issues. Today more than 500k Airbnb reservations, and pin codes, have been served through this integration, and rapidly growing.
+Through the public launch and beyond, I ensured launch readiness, system stability, and swift issue resolution. Today, this integration has supported more than 500,000 Airbnb reservations and pin codes, with growth accelerating rapidly. This has lifted guest and host satisfaction while slashing customer support costs for Airbnb.

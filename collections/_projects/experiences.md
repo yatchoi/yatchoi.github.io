@@ -16,8 +16,8 @@ gallery:
   - image: "/assets/images/gen/projects/project-4-7.webp"
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+Airbnb Experiences launched in 2016, offering travelers a series of excursions and tours hosted from a local viewpoint.
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+I was on the launch team of Experiences, as one of 12 engineers helping to bring CEO Brian Chesky's vision to life. In addition to core contributions to building the Experience booking flow and "My trip" itinerary, I personally pitched and built an on-trip smart travel assistant, designed in coordination with Brian himself. These features were live-demo'd by the CEO at the official launch event in Los Angeles to press and Airbnb hosts.
 
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.
+I played a major role in preparing Experiences for a high profile and high traffic release. As the product matured, my work focused on scaling the trip itinerary with an event ingestion pipeline, as well as designing/building a contextual suggestions feature.
