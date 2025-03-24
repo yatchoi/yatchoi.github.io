@@ -20,4 +20,4 @@ Airbnb Experiences launched in 2016, offering travelers a series of excursions a
 
 I was on the launch team of Experiences, as one of 12 engineers helping to bring CEO Brian Chesky's vision to life. In addition to core contributions to building the Experience booking flow and "My trip" itinerary, I personally pitched and built an on-trip smart travel assistant, designed in coordination with Brian himself. These features were live-demo'd by the CEO at the official launch event in Los Angeles to press and Airbnb hosts.
 
-I played a major role in preparing Experiences for a high profile and high traffic release. As the product matured, my work focused on scaling the trip itinerary with an event ingestion pipeline, as well as designing/building a contextual suggestions feature.
+I played a major role in preparing Experiences for a high profile and high traffic release. As the product matured, my work focused on scaling the trip itinerary ingestion flow, as well as designing/building a contextual suggestions feature.
