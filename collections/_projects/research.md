@@ -2,7 +2,7 @@
 layout: project-left
 title: "Samara R&D"
 description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
-date: 2019-04-02
+date: 2020-05-02
 weight: 2
 thumbnail: "/assets/images/gen/projects/samara/model.webp"
 image: "/assets/images/gen/projects/project-3-1.webp"

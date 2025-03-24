@@ -2,7 +2,7 @@
 layout: project # alternative layouts: project, project-left, project-right, project-top
 title: "Airbnb Host Features"
 description: "Building tools to help Hosts manage their space"
-date: 2025-03-23
+date: 2016-04-28
 weight: 4
 thumbnail: "/assets/images/gen/projects/project-2-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-2-1.webp"

@@ -2,7 +2,7 @@
 layout: project-top
 title: "Experiences Launch"
 description: "An open source machine learning library written in Python"
-date: 2016-11-07
+date: 2019-03-01
 weight: 3
 permalink: /projects/project-4
 thumbnail: "/assets/images/gen/projects/project-4-6-thumbnail.webp"
